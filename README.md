@@ -16,7 +16,7 @@ you don't have to achieve high accuracy, but you need to show your own understan
   
 
 3. Project deadline:  
-**YOU SHOULD SUBMIT BEFORE LAST WEEK**
+**YOU SHOULD SUBMIT YOUR WORK BEFORE WEEK 13 (11 NOV)**
 
 
 ###  Tips
