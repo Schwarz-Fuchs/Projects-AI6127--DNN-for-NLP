@@ -10,8 +10,8 @@ you don't have to achieve high accuracy, but you need to show your own understan
   
 
 2. Suggested topic  
-``an end-to-end system``: e.g. MRC(Q&A), NMT, Summarization    
-``add new components to existing framework``:  e.g. add new layers, new architecture.     
+``An end-to-end system``: e.g. MRC(Q&A), NMT, Summarization    
+``Add new components to existing framework``:  e.g. add new layers, new architecture.     
 ``Reimplement the algorithm in paper``: not recommended, this may result in lower grade.  
   
 
